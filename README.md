@@ -4,7 +4,9 @@
 
 X : 고객정보 (Customer tb) / 계약정보 (Contract tb) / 지급정보 (Claim tb) / 가족정보 (Family tb) / 설계사정보 (FP infomer tb)
 
-Y : 보험사기자 (1) / 일반고객 (0)
+Y : 보험사기자 / 일반고객
+
+classification
 
 ### 제출서류
 
